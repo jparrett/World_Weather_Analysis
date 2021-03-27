@@ -14,5 +14,6 @@ This part of the project was to use customer input to determine cities that woul
 
 
 # Deliverable Three
-# Conclusion
 
+# Conclusion
+Throughtout this analysis, we were able to start with 2,000 random points, retreive weather information, filter based on weather, locate hotels and finally determine a path for the consumer.    This will allow consumers to quickly pinpoint areas that would be ideal for this vacation.
