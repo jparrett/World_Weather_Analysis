@@ -14,9 +14,11 @@ This part of the project was to use customer input to determine cities that woul
 
 
 # Deliverable Three
-
+For the final step a vacation iteneary was created.   For our trip we will be traveling between four cities in Australia.    After establishing four cities that met our criteria in the first deliverables, more infmoration was needed for the customer.   The cities were placed into a database.   Using google maps, map markers were placed for each of the cities with associated hotels and weather information displayed.   
 
 <img src="/Vacation_Itinerary/WeatherPy_travel_map.png" width="600"> [WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
-<img src="/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="600"> [WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+<img src="/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="600"> [WeatherPy_travel_map_markers.png(Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
 # Conclusion
-Throughtout this analysis, we were able to start with 2,000 random points, retreive weather information, filter based on weather, locate hotels and finally determine a path for the consumer.    This will allow consumers to quickly pinpoint areas that would be ideal for this vacation.
+Throughtout this analysis, we were able to start with 2,000 random points, retreive weather information, filter based on weather, locate hotels and finally determine a route for the consumer.    This will allow consumers to quickly pinpoint areas that would be ideal for their vacation and know all the associated facts. for those locations.
