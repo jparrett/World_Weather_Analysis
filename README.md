@@ -15,5 +15,8 @@ This part of the project was to use customer input to determine cities that woul
 
 # Deliverable Three
 
+
+<img src="/Vacation_Itinerary/WeatherPy_travel_map.png" width="600"> [WeatherPy_travel_map.png](Vacation_Itinerary/WeatherPy_travel_map.png)
+<img src="/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="600"> [WeatherPy_travel_map_markers.png](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 # Conclusion
 Throughtout this analysis, we were able to start with 2,000 random points, retreive weather information, filter based on weather, locate hotels and finally determine a path for the consumer.    This will allow consumers to quickly pinpoint areas that would be ideal for this vacation.
